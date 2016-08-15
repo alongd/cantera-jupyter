@@ -4,4 +4,4 @@ notebooks. To see the rendered notebooks, browse the directories above. To run a
 of these examples yourself, follow the Binder link below to launch an interactive
 environment where you can try using Cantera -- no installation required.
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cantera/cantera-jupyter)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alongd/cantera-jupyter)
