@@ -1,4 +1,7 @@
 # cantera-jupyter
+
+Rebuild binder at [mybinder.org](http://mybinder.org/) by pasting 'alongd/cantera-jupyter'
+
 [Cantera](http://cantera.org) examples in the form of [Jupyter](http://jupyter.org)
 notebooks. To see the rendered notebooks, browse the directories above. To run any
 of these examples yourself, follow the Binder link below to launch an interactive
